@@ -22,3 +22,4 @@ from lavapdu.drivers.apc7952 import APC7952
 from lavapdu.drivers.apc9218 import APC9218
 from lavapdu.drivers.apc8959 import APC8959
 from lavapdu.drivers.apc9210 import APC9210
+from lavapdu.drivers.acme import ACME
